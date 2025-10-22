@@ -2,7 +2,7 @@ import { motion } from "motion/react"
 
 const HeroSection = () => {
   return (
-    <section className="relative min-h-screen flex items-center sm:px-18 px-20 w-full">
+    <section className="relative min-h-full flex items-center sm:px-18 px-20 w-full">
       <div className="w-full max-w-7xl mx-auto flex flex-row justify-between items-center">
         <div className="relative z-10 text-start flex-1 max-w-4xl">
           <div className="flex md:gap-11 gap-6 md:flex-row flex-col-reverse items-center">
